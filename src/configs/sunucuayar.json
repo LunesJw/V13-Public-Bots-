@@ -1,0 +1,79 @@
+{
+  "staffs": ["1042876452032479343","1042876453093646437"],
+  "erkekRolleri": ["1042876517958557707","1042876519934087288"],
+  "kizRolleri": ["1042876515177725982","1042876516494741574"], 
+  "unregRoles": ["1042876522660368434","1042876521116860436"],
+  "yetkiRolleri": ["1042876489605054616","1042876491576397854"],
+  "teyitciRolleri": ["1042876491576397854"],
+  "ekipRolu": "1042876507481186315",
+
+  "tag": "★",
+  "ikinciTag": "•",
+  "jailRole": ["1042876525214695465"],
+  "chatMute": ["1042876525214695465"],
+  "voiceMute": ["1042876525214695465"],
+  "fakeAccRole": ["1042876525214695465"],
+  "rolverici": ["1042876453093646437"],
+
+  "chatChannel": "1042876755045793933",
+  "teyitKanali": "1042876671696568394",
+  "invLogChannel": "1042876675484024883",
+  "banLogChannel": "1052263502418554960",
+  "jailLogChannel": "1052263594747768853",
+  "cmuteLogChannel": "1052263622602133515",
+  "vmuteLogChannel": "1052263825430298655",
+  "warnLogChannel": "1053675290418761829",
+  "kurallar": "1042876685651017789",
+  "seskanal": "1042876631959752764",
+  "cezapuanlog": "1053428717130633336",
+
+  "vipRole": "1042876509846781982",
+  "müzisyenRole": "1042876512275267584",
+  "tasarımcıRole": "1042876513281921054",
+  "streamerRole": "1042876570706116719",
+  "sorunçözücüRole": "1042876544768540713",
+
+  "publicParents": ["1042876655850500156"],
+  "registerParents": ["1042876634723795024"],
+  "solvingParents": ["1042876658664873994"],
+  "privateParents": ["1042876646723686420"],
+  "aloneParents": ["1042876659663118430"],
+  "funParents": ["","","",""],
+
+  "cekilis": "Çekiliş", 
+  "etkinlik": "Etkinlik",
+  
+  "İlişkiler": {
+    "couple": "Couple",
+    "alone": "Alone"
+  },
+  "Renkler": {
+    "kirmizi": "🍓",
+    "turuncu": "🍊",
+    "mor": "🍇",
+    "pembe": "🍑",
+    "yesil": "🥑"
+  },
+  "Oyunlar": {
+    "csgo": "CS:GO",
+    "lol": "League",
+    "valorant": "Valorant",
+    "gta5": "Gta",
+    "pubg": "PUBG",
+    "fortnite": "Fortnite"
+  },
+  "Burçlar": {
+    "koç": "Koç",
+    "boğa": "Boğa",
+    "ikizler": "İkizler",
+    "yengeç": "Yengeç",
+    "aslan": "Aslan",
+    "başak": "Başak",
+    "terazi": "Terazi",
+    "akrep": "Akrep",
+    "yay": "Yay",
+    "oğlak": "Oğlak",
+    "kova": "Kova",
+    "balık": "Balık"
+  }
+}

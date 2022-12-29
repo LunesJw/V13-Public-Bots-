@@ -1,0 +1,34 @@
+{
+  "token": "MTA1NzMwNDczMzY3NDY1MTcxOA.GB6xMf.bkbTL6tnV1EWaNXAR3FqFVbJYeuqNNbSJ2XXcA",
+  "prefix": [".","!","-"],
+  "guildID": "1033714186884223027",
+  "BotClientID": "1056558154051239997",
+  "mongoUrl": "mongodb+srv://Nopel:3144emin@cluster0.5tb8y.mongodb.net/Emin?retryWrites=true&w=majority",
+  "owners": ["962417173043753022"],
+  "botDurum": "DENEME.",
+  "botSes": "1042876631959752764",
+  "registerPerm": "1042876491576397854",
+   
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+  "messageCount": 1,
+  "messageCoin": 2,
+  "voiceCount": 1,
+  "voiceCoin": 4,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+
+  "banlimit": 3,
+  "jaillimit": 8,
+  "warnlimit": 3,
+  "chatmutelimit": 3,
+  "voicemutelimit": 3
+}
